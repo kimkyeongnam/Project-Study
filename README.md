@@ -1,7 +1,7 @@
 # Project_Study
 |Content|Detailed<br>Field|Repository|
 |:--:|:--:|:--:|
-|Study|DG|[Vpython](https://github.com/kimkyeongnam/STUDY_Vpython)|
+|Study|G|[Vpython](https://github.com/kimkyeongnam/STUDY_Vpython)|
 ||CG|[OpenCV](https://github.com/kimkyeongnam/STUDY_OpenCV)|
 ||CG|[OpenGL](https://github.com/kimkyeongnam/STUDY_OpenGL)|보안
 ||Web|[Web](https://github.com/kimkyeongnam/STUDY_Web)|
