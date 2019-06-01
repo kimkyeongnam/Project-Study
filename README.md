@@ -10,7 +10,7 @@
 ||AI|[Artificial<br>Intelligence](https://github.com/kimkyeongnam/STUDY_Artificial-Intelligence)|
 |Project|VR|[UNIVR](https://github.com/sejongunivr)|
 ||DB|[대학 생활 관리 시스템](https://github.com/kimkyeongnam/University_Life_Management_System)|
-||AI|[이모티콘 AI분류기]()|
+||AI|[이모티콘 AI분류기](https://github.com/hyj378/ArtificialIntelligence)|
 |||[영화 점수 예측AI](https://github.com/kimkyeongnam/PROJECT_Predict-Movie-Score)|
 ||Python|[수학 AI](https://github.com/kimkyeongnam/PROJECT_Math-AI)|
 
