@@ -14,4 +14,5 @@
 |||[영화 점수 예측AI](https://github.com/kimkyeongnam/PROJECT_Predict-Movie-Score)|
 ||Python|[수학 AI](https://github.com/kimkyeongnam/PROJECT_Math-AI)|
 
+자료정리 후 repository를 추가하면서 수정 
 Last Update 02.06.2019
