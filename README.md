@@ -12,7 +12,8 @@
 ||DB|[대학 생활 관리 시스템](https://github.com/kimkyeongnam/University_Life_Management_System)|
 ||AI|[이모티콘 AI분류기](https://github.com/hyj378/ArtificialIntelligence)|
 |||[영화 점수 예측AI](https://github.com/kimkyeongnam/PROJECT_Predict-Movie-Score)|
+|||[얼굴 인식 출석부AI](https://github.com/kimkyeongnam/PROJECT_AI-Face-Recognition-Attendance)
 ||Python|[수학 AI](https://github.com/kimkyeongnam/PROJECT_Math-AI)|
 
 자료정리 후 repository를 추가하면서 수정할 예정  
-<br>Last Update 02.06.2019
+<br>Last Update 10.06.2019
