@@ -8,7 +8,7 @@
 |||[Oauth](https://github.com/kimkyeongnam/STUDY_OAuth)|
 ||Basic<br>Knowledge|[Algorithm](https://github.com/kimkyeongnam/STUDY_Algorithm)|
 ||AI|[Artificial<br>Intelligence](https://github.com/kimkyeongnam/STUDY_Artificial-Intelligence)|
-|Project|VR|[UNIVR](https://github.com/sejongunivr)|
+|Project|VR|[UNIVR](https://github.com/sejongunivr)<br>(Club)|
 ||DB|[대학 생활 관리 시스템](https://github.com/kimkyeongnam/University_Life_Management_System)|
 ||AI|[Emoji Recommend AI](https://github.com/sejongresearch/EmojiRecommend)|
 |||[영화 점수 예측AI](https://github.com/kimkyeongnam/PROJECT_Predict-Movie-Score)|
