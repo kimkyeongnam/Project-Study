@@ -5,27 +5,40 @@
 |:--:|:--:|
 |AI|[Artificial<br>Intelligence](https://github.com/study-artificial-intelligence/Artificial-Intelligence)|
 |Basic<br>Knowledge|[Algorithm](https://github.com/kimkyeongnam/STUDY_Algorithm)|
-|CG|[OpenCV](https://github.com/kimkyeongnam/STUDY_OpenCV)|
+|CG|[OpenCV](https://github.com/study-graphic/OpenCV)|
 |CG|[OpenGL](https://github.com/study-graphic/OpenGL)|
 |CG|[Vpython](https://github.com/study-graphic/Vpython)|
-|Web<br>(Front-End)|[Web](https://github.com/kimkyeongnam/STUDY_Web)|
-|Web<br>(Back-End)|[Oauth](https://github.com/study-web-server/OAuth)|
-
+|FrontEnd<br>(CSS)|[Web](https://github.com/kimkyeongnam/STUDY_Web)|
+|FrontEnd<br>(HTML)|[HTML](https://github.com/study-front-back/HTML)|
+|FrontEnd<br>(JavaScript)|[JavaScript](https://github.com/study-front-back/JavaScript)|
+|BackEnd<br>(Thrid-Party)|[Oauth](https://github.com/study-front-back/OAuth)|
+|BackEnd<br>(DB)|[BlockChain](https://github.com/kimkyeongnam/BlockChain)|
+|BackEnd<br>(Server)|[Node.js](https://github.com/study-front-back/Node.js)|
+|BackEnd<br>(Server)|[Django](https://github.com/study-front-back/Django)|
+|BackEnd<br>(Server)|[JSP](https://github.com/study-front-back/JSP)|
+|BackEnd<br>(Server)|[Flask](https://github.com/study-front-back/Flask)|
+|BackEnd<br>(Deploy)|[AWS](https://github.com/study-front-back/AWS)|
+|BackEnd<br>(Deploy)|[Heroku](https://github.com/study-front-back/Heroku)|
 <br>
 
 ### Project
 |Detailed<br>Field|Repository|
 |:--:|:--:|
 |Basic<br>Knowledge|[SnakeGame](https://github.com/kimkyeongnam/OSS-SnakeGame)|
-|Backend|[Notitle](https://github.com/kimkyeongnam/D2-Campus-Fest)|
-|[UNIVR](https://github.com/sejongunivr)<br>(Club)|
+|Basic<vr>Knowledge|[Tetris](https://github.com/kimkyeongnam/Tetris)|
+|Basic<vr>Knowledge|[Sorrow](https://github.com/melisdiary/SW-Basic-Design)|
+|Back<br>End|[Notitle](https://github.com/kimkyeongnam/D2-Campus-Fest)|
+|VR|[UNIVR](https://github.com/sejongunivr)<br>(Club)|
 |AI|[Emoji Recommend AI](https://github.com/sejongresearch/EmojiRecommend)|
-||[영화 점수 예측AI](https://github.com/kimkyeongnam/PROJECT_Predict-Movie-Score)|
-||[AI Face<br>Recognition Attendance](https://github.com/study-artificial-intelligence/AI-Face-Recognition-Attendance)|
-||[AI ChatBot](https://github.com/min942773/SejongHackathon)|
-||Python|[수학 AI](https://github.com/kimkyeongnam/PROJECT_Math-AI)|
-|DB|[University Life<br>Management System](https://github.com/kimkyeongnam/University_Life_Management_System)|
+|AI|[Movie Rating<br>Prediction](https://github.com/study-artificial-intelligence/Movie-Rating-Prediction)|
+|AI|[AI Face<br>Recognition Attendance](https://github.com/study-artificial-intelligence/AI-Face-Recognition-Attendance)|
+|AI|[AI ChatBot](https://github.com/min942773/SejongHackathon)|
+|AI|[Personal Color](https://github.com/kimkyeongnam/Personal-Color)|
+|Python|[Math AI](https://github.com/kimkyeongnam/PROJECT_Math-AI)|
+|AI|[AI Music<br>Composer](https://github.com/study-artificial-intelligence/AI-Music-Composer)|
+|App<br>(Android Studio)|[Course Registration<br>Helper](https://github.com/study-application/Course-Registration-Helper)|
+|DB|[University Life<br>Management System](https://github.com/study-front-back/University_Life_Management_System)|
 
-
+<br><br><br>
 자료정리 후 repository를 추가하면서 수정할 예정  
 <br>Last Update 15.07.2019
