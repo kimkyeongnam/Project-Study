@@ -32,9 +32,10 @@
 |AI|[Personal Color](https://github.com/kimkyeongnam/Personal-Color)|
 |AI|[AI Music<br>Composer](https://github.com/study-artificial-intelligence/AI-Music-Composer)|
 |App<br>(Android Studio)|[Course Registration<br>Helper](https://github.com/study-application/Course-Registration-Helper)|
+|Basic<br>Knowledge|[Contact](https://github.com/kimkyeongnam/Contact-Program-Project)|
+|Basic<br>Knowledge|[Tetris](https://github.com/kimkyeongnam/Tetris)|
 |Basic<br>Knowledge|[SnakeGame](https://github.com/kimkyeongnam/OSS-SnakeGame)|
-|Basic<vr>Knowledge|[Tetris](https://github.com/kimkyeongnam/Tetris)|
-|Basic<vr>Knowledge|[Sorrow](https://github.com/melisdiary/SW-Basic-Design)|
+|Basic<br>Knowledge|[Sorrow](https://github.com/melisdiary/SW-Basic-Design)|
 |Back<br>End|[Notitle](https://github.com/kimkyeongnam/D2-Campus-Fest)|
 |Full<br>Stack|[University Life<br>Management System](https://github.com/study-front-back/University_Life_Management_System)|
 |Python|[Math Project](https://github.com/kimkyeongnam/PROJECT_Math-AI)|
