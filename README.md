@@ -43,5 +43,5 @@
 |VR|[UNIVR](https://github.com/sejongunivr)<br>(Club)|
 
 <br><br><br>
-I'll add a list while organizing the data.
-<br>Last Update 09.17.2019
+I'll add a list while organizing the data :D
+<br><br>**Last Update 09.17.2019**
