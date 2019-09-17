@@ -43,5 +43,5 @@
 |VR|[UNIVR](https://github.com/sejongunivr)<br>(Club)|
 
 <br><br><br>
-자료정리 후 repository를 추가하면서 수정할 예정  
-<br>Last Update 15.07.2019
+I'll add a list while organizing the data.
+<br>Last Update 09.17.2019
