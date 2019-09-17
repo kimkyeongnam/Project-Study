@@ -38,6 +38,7 @@
 |Basic<br>Knowledge|[Sorrow](https://github.com/melisdiary/SW-Basic-Design)|
 |Back<br>End|[Notitle](https://github.com/kimkyeongnam/D2-Campus-Fest)|
 |Full<br>Stack|[University Life<br>Management System](https://github.com/study-front-back/University_Life_Management_System)|
+|Robot|[Counter UAV Radar](https://github.com/seonghapark/cuav)|
 |Python|[Math Project](https://github.com/kimkyeongnam/PROJECT_Math-AI)|
 |VR|[UNIVR](https://github.com/sejongunivr)<br>(Club)|
 
