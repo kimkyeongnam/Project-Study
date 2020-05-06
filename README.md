@@ -12,6 +12,7 @@
 |Data|[National Institute of Korean Language<br>file preprocessing](https://github.com/study-ai-data/nikl)|Python3|-|
 ||[Misspelled Korean Data Generator](https://github.com/study-ai-data/mkdg)|Python3|-|
 |Front-end|[PlayData](https://github.com/study-front-back/PlayData)|html, css, javascript|-|
+||[LiveCoronaDetector](https://github.com/LiveCoronaDetector/livecod)|javascript|(volunteer)|
 |Robot|[Counter UAV Radar](https://github.com/seonghapark/cuav)|Python3, html, css, javascript|Full stack(flask)<br>Drone automatic control|
 |VR|[UNIVR](https://github.com/sejongunivr)<br>(Club)|C#(Unity)|Programming<br>Modeling(Blender)<br>Video Editing(Premiere)|
 
