@@ -13,7 +13,7 @@
 ||[Misspelled Korean Data Generator](https://github.com/study-ai-data/mkdg)|Python3|-|
 |Front-end|[PlayData](https://github.com/study-front-back/PlayData)|html, css, javascript|-|
 |Robot|[Counter UAV Radar](https://github.com/seonghapark/cuav)|Python3, html, css, javascript|Full stack(flask)<br>Drone automatic control|
-|VR|[UNIVR](https://github.com/sejongunivr)<br>(Club)|C#(Unity)|Programming<br>Modeling(Blender)<br>Video Editing(Premier)|
+|VR|[UNIVR](https://github.com/sejongunivr)<br>(Club)|C#(Unity)|Programming<br>Modeling(Blender)<br>Video Editing(Premiere)|
 
 <br><br><br>
 I only made a completed project list.<br>
