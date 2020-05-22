@@ -9,7 +9,8 @@
 ||[SnakeGame](https://github.com/kimkyeongnam/OSS-SnakeGame)|C|-|
 ||[Sorrow](https://github.com/melisdiary/SW-Basic-Design)|C|-|
 ||[Tetris](https://github.com/kimkyeongnam/Tetris)|C|-|
-|Data|[National Institute of Korean Language<br>file preprocessing](https://github.com/study-ai-data/nikl)|Python3|-|
+|Data|[korean texts <---> numbers](https://github.com/study-ai-data/korNum)|Python3|-|
+||[National Institute of Korean Language<br>file preprocessing](https://github.com/study-ai-data/nikl)|Python3|-|
 ||[Misspelled Korean Data Generator](https://github.com/study-ai-data/mkdg)|Python3|-|
 |Front-end|[PlayData](https://github.com/study-front-back/PlayData)|html, css, javascript|-|
 ||[Live Corona Detector<br>(corona map)](https://github.com/LiveCoronaDetector/livecod)|html, css, javascript|volunteer|
@@ -20,4 +21,4 @@
 <img src="https://github.com/kimkyeongnam/Project/blob/master/organization.PNG" width="180" alt="myOrganization"><br>
 You can see all of my repositories here:<br>
 [orgainzation_web](https://github.com/study-front-back), [organization_graphic](https://github.com/study-graphic), [organization_ai_data](https://github.com/study-ai-data), [organization_application](https://github.com/study-application), [origin_repositories](https://github.com/kimkyeongnam?tab=repositories)
-<br><br>**Last Update 06.05.2020** ;D
+<br><br>**Last Update 22.05.2020** ;D
