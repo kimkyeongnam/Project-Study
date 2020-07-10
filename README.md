@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 # Kyeongnam Kim<sub> @kimkyeongnam</sub>
 
 ### 🎓 Education
-Undergraduate student in Dept. of Software, Sejong University (2017 ~)<br>
-Expected date of graduation: 08.2021
+* Undergraduate student in Dept. of Software, Sejong University (2017 ~)<br>
+* Expected date of graduation: 08.2021
 
 ### 🔭 Activities
 
