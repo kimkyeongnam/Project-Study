@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 * Love to challenge new things in any field
 * Want to work in a big place like Silicon Valley!
 * You can check my CV [here](https://www.notion.so/kkyy0126/Kyeongnam-Kim-f68fd56eda8c475592e1346b4f383ae3)
+
+![kyeongnam's github stats](https://github-readme-stats.vercel.app/api?username=kimkyeongnam&show_icons=true&hide_border=true) 
