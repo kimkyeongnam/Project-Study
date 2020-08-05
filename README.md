@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 ![kyeongnam's github stats](https://github-readme-stats.vercel.app/api?username=kimkyeongnam&show_icons=true&hide_border=true) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkyeongnam)](https://github.com/kimkyeongnam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkyeongnam&layout=compact)](https://github.com/kimkyeongnam/github-readme-stats)
