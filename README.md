@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 * You can check my CV [here](https://www.notion.so/kkyy0126/Kyeongnam-Kim-f68fd56eda8c475592e1346b4f383ae3)
 
 ![kyeongnam's github stats](https://github-readme-stats.vercel.app/api?username=kimkyeongnam&show_icons=true&hide_border=true) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkyeongnam)](https://github.com/kimkyeongnam/github-readme-stats)
