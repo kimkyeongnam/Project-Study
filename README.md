@@ -1,7 +1,7 @@
 <!--
 ### Hi there 👋
 
-**kimkyeongnam/kimkyeongnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ruby-kim/ruby-kim* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- Your title -->
-## Hi, I'm Ruby Kim(@kimkyeongnam), a Developer 🚀 from South Korea.
+## Hi, I'm Ruby Kim(@ruby-kim), a Developer 🚀 from South Korea.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kimkyeongnam)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ruby-kim)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rubykimse/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/rubyhae_/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dev.rubykim@gmail.com)
