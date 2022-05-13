@@ -35,7 +35,8 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently working on [Sibel International](https://www.sibelhealth.com/)
 - 🧑‍🏫 I'm currently teaching Python and C++ in [Elice School](https://elice.school/)
-- 🌱 I’m currently learning Ruby and Go language
+- 📖 I'm currently mentoring [42SEOUL](https://42seoul.kr/seoul42/main/view) cadet
+- 🌱 I’m currently learning Go language, AWS and React.
 - 💬 Ask me about anything, I am happy to help (●ˇ∀ˇ●)
 - 📫 How to reach me: dev.rubykim@gmail.com
 
