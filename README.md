@@ -31,11 +31,15 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Talking about you -->
 <!-- Any image aligned to the right. Beware the width -->
+<!-- Previous data
+- 📖 I'm currently mentoring [42SEOUL](https://42seoul.kr/seoul42/main/view) cadet
+-->
+
+
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [Sibel International](https://www.sibelhealth.com/)<br>(Sibel Health Korea)
 - 🧑‍🏫 I'm currently teaching Python and C++ in [Elice School](https://elice.school/)
-- 📖 I'm currently mentoring [42SEOUL](https://42seoul.kr/seoul42/main/view) cadet
 - 🌱 I’m currently learning AWS and React.
 - 💬 Ask me about anything, I am happy to help (●ˇ∀ˇ●)
 - 📫 How to reach me: dev.rubykim@gmail.com
