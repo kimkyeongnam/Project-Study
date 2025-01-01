@@ -1,3 +1,4 @@
 # Resume
-![welcome](../jerry.gif)
-* Notion: https://bit.ly/rubykim
+![welcome](./jerry.gif)
+* Portfolio: https://dev-rubykim.vercel.app/
+* Resume: https://rxresu.me/
