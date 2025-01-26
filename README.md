@@ -35,9 +35,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [Sibel Health](https://www.sibelhealth.com/)<br>(Sibel Health Korea)
-- 🌱 I’m currently learning AWS and React.
-- 💬 Ask me about anything, I am happy to help (●ˇ∀ˇ●)
-- 📫 How to reach me: dev.rubykim@gmail.com
+- 🌱 I’m currently learning Svelte, GCP, Azure and Terraform.
 
 <!-- - 🧑‍🏫 I'm currently teaching Python and C++ in [Elice School](https://elice.school/) -->
 
